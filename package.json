@@ -1,6 +1,6 @@
 {
   "name": "big-buck-bunny-1080p",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "To use the Big Buck Bunny placeholder video without having to stream it or added it to your repository",
   "main": "index.js",
   "scripts": {

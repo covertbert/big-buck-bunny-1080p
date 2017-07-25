@@ -1,4 +1,4 @@
-big-buck-bunny-1080p-30s
+big-buck-bunny-1080p
 ========================
 
 30 first seconds of Big Buck Bunny (1080p)
@@ -10,7 +10,7 @@ Installation
 
 Install using NPM:
 
-    npm install big-buck-bunny-1080p-30s
+    npm install big-buck-bunny-1080p
 
 
 License
