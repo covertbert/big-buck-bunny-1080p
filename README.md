@@ -12,6 +12,11 @@ Install using NPM:
 
     npm install big-buck-bunny-1080p
 
+Use
+-------
+You need to point the video `src` to `video.mp4` within the node module.
+
+e.g. `path_to/node_modules/big-buck-bunny-1080p/video.mp4`
 
 License
 -------
