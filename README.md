@@ -8,9 +8,9 @@ This is intended to be used as a sample video for testing (ex: `<video>` tag).
 Installation
 ------------
 
-Install using bower:
+Install using NPM:
 
-    npm install big-buck-bunny-1080p-30s --save-dev
+    npm install big-buck-bunny-1080p-30s
 
 
 License
